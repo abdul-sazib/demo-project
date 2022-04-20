@@ -29,6 +29,6 @@ public class AppTest {
 
     @Test
     public void test_multiply() {
-        assertEquals(new SimpleMath().multiply(1000000000, 1000000000), 1000000000);
+        assertEquals(new SimpleMath().multiply(1000, 1000), 1000000);
     }
 }
