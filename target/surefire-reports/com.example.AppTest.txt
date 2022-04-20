@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.AppTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.046 s <<< FAILURE! - in com.example.AppTest
+test_multiply(com.example.AppTest)  Time elapsed: 0.005 s  <<< FAILURE!
+java.lang.AssertionError: expected:<-1486618624> but was:<1000000000>
+	at com.example.AppTest.test_multiply(AppTest.java:32)
+
